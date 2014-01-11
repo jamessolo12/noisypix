@@ -1,0 +1,48 @@
+
+#dropbox{
+	position: relative;
+	margin-top:30px;
+	margin-bottom:30px;
+	min-height: 290px;
+	overflow: hidden;
+	padding-bottom: 20px;
+	border-style: dotted;
+	border-width: 1px;
+}
+
+.alertBoxes{
+	position: relative;
+	margin-bottom: 30px;
+	padding: 10px;
+	display: none;
+}
+
+.message_big{
+	font-size: 11px;
+    text-align: center;
+    padding-top:160px;
+    display: block;
+}
+
+.message_small{
+	font-size: 11px;
+    text-align: center;
+    padding-top:30px;
+    padding-bottom:10px;
+    display: block;
+}
+
+#photoHolder{
+	display: inline-block;
+	position:relative;
+	padding:10px;
+}
+
+.thumbNail{
+	float:left;
+	position: relative;
+	padding-left: 20px;
+	padding-top: 20px;
+	max-height: 120px;
+	max-width: 180px;
+}
